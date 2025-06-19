@@ -54,8 +54,7 @@ Here’s a glimpse into what I’ve worked on or contributed to:
   
   🛠 HTML/CSS •  [View Code](https://github.com/globaloma/flixia-landing-page)
   
-  - 🔹 [Snake Game](https://my-snake-game-page.netlify.app/)
-  
+- 🔹 [Snake Game](https://my-snake-game-page.netlify.app/)
   🛠 HTML/CSS/JS •  [View Code](https://github.com/globaloma/snake-game)
 
 
