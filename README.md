@@ -53,6 +53,10 @@ Here’s a glimpse into what I’ve worked on or contributed to:
 - 🔹 [Flixia Landing Page](https://chioma-flixia-landing-page.netlify.app)
   
   🛠 HTML/CSS •  [View Code](https://github.com/globaloma/flixia-landing-page)
+  
+  - 🔹 [Snake Game](https://my-snake-game-page.netlify.app/)
+  
+  🛠 HTML/CSS/JS •  [View Code](https://github.com/globaloma/snake-game)
 
 
 ---
