@@ -35,22 +35,19 @@ Here’s a glimpse into what I’ve worked on or contributed to:
   These were some of the projects I built from scratch to further practice everything I've learnt:
 
 - 🔹 [Netflix clone](https://my-first-react-projectttt.netlify.app)  
-  🛠️ React, JavaScript,Firebase • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
-
-- 🔹 [Learnable Task Page](https://learnable-task6.netlify.app)  
-  🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+  🛠 React, JavaScript,Firebase • 🔗 [View Code](https://github.com/globaloma/react-netflix-firebase)
 
 - 🔹 [Instagram Clone](https://my-stutern-insta-clone.netlify.app)  
-  🛠️ HTML/CSS/JS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+  🛠 HTML/CSS/JS •  [View Code](https://github.com/globaloma/Instagram-clone)
 
 - 🔹 [Udemy Clone](https://my-stutern-udemy-clone.netlify.app)  
-  🛠️ HTML/CSS/JS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+  🛠 HTML/CSS/JS •  [View Code](https://github.com/globaloma/Udemy-clone)
 
 - 🔹 [Portfolio Website](https://stutern-myporfolio.netlify.app)  
-  🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+  🛠 HTML/CSS •  [View Code](https://github.com/globaloma/stutern-portfolio)
 
 - 🔹 [Flixia Landing Page](https://chioma-flixia-landing-page.netlify.app)  
-  🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+  🛠 HTML/CSS •  [View Code](https://github.com/globaloma/flixia-landing-page)
 
 
 ---
