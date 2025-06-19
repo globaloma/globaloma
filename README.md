@@ -13,7 +13,7 @@ Building boldly, learning loudly 🚀
 
 ---
 
-## 🚀 Projects & Contributions  
+## 🚀 Projects & Contributions (Fully Functional)
 Here’s a glimpse into what I’ve worked on or contributed to:
 
 - 🔹 **ProFxGroups.com**  
@@ -31,25 +31,26 @@ Here’s a glimpse into what I’ve worked on or contributed to:
 - 🔹 **[CodeWars](https://www.codewars.com/users/nuella001)**  
   Solving challenges to sharpen my algorithm and problem-solving skills
 
-  ## 🌐 Live Projects
+  ## 🌐 Some of my  Practice Projects (Not Fully Functional)
+  These were some of the projects I built from scratch to further practice everything I've learnt:
 
--🔹 [Netflix clone](https://my-first-react-projectttt.netlify.app)  
- 🛠️ React, JavaScript,Firebase • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+- 🔹 [Netflix clone](https://my-first-react-projectttt.netlify.app)  
+  🛠️ React, JavaScript,Firebase • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
 
--🔹 [Learnable Task Page](https://learnable-task6.netlify.app)  
- 🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+- 🔹 [Learnable Task Page](https://learnable-task6.netlify.app)  
+  🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
 
--🔹 [Instagram Clone](https://my-stutern-insta-clone.netlify.app)  
- 🛠️ HTML/CSS/JS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+- 🔹 [Instagram Clone](https://my-stutern-insta-clone.netlify.app)  
+  🛠️ HTML/CSS/JS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
 
--🔹 [Udemy Clone](https://my-stutern-udemy-clone.netlify.app)  
- 🛠️ HTML/CSS/JS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+- 🔹 [Udemy Clone](https://my-stutern-udemy-clone.netlify.app)  
+  🛠️ HTML/CSS/JS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
 
--🔹 [Portfolio Website](https://stutern-myporfolio.netlify.app)  
- 🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+- 🔹 [Portfolio Website](https://stutern-myporfolio.netlify.app)  
+  🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
 
--🔹 [Flixia Landing Page](https://chioma-flixia-landing-page.netlify.app)  
- 🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
+- 🔹 [Flixia Landing Page](https://chioma-flixia-landing-page.netlify.app)  
+  🛠️ HTML/CSS • 🔗 [View Code](https://github.com/globaloma/REPO_NAME)
 
 
 ---
