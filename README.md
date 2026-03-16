@@ -16,15 +16,6 @@ Building boldly, learning loudly 🚀
 ## 🚀 Projects & Contributions (Fully Functional)
 Here’s a glimpse into what I’ve worked on or contributed to:
 
-- 🔹 **ProFxGroups.com**  
-  Customized and deployed a forex website using a PHP-based template [Visit website](https://profxgroups.com)
-
-- 🔹 **MedXpressNG.com**  
-  Edited and implemented features using an existing delivery platform template  [Visit website](https://medxpressng.com)
-
-- 🔹 **MySkillSphere.org**  
-  Set up and configured an LMS (Learning Management System) using a PHP template. [Visit website](https://myskillsphere.org) 
-
 - 🔹 **CS50 Projects**  
   Working through Harvard’s [CS50x](https://cs50.harvard.edu/x) curriculum — learning C, Python, data structures, Algorithms, SQL and more  
 
